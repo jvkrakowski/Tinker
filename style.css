@@ -77,6 +77,10 @@ section {
     overflow: hidden;
 }
 
+.box {
+    padding: 15px;
+}
+
 
 /* Header */ 
 
