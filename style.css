@@ -43,7 +43,7 @@ body {
 .container {
     margin-left: auto;
     margin-right: auto;
-    padding-left: 1rem;
+
 }
 
 section {
@@ -63,6 +63,16 @@ section {
     padding-right: 1rem;
     padding-left: 2rem;
     background: #ffffff;
+}
+
+/* Hero */ 
+
+.hero {
+    margin: 0;
+    min-height: 100vh;
+    min-width: 100vh;
+    background: #f3f3f3;
+    padding-left: -1rem;
 }
 
 /* Box - For display of the grid only */
@@ -260,8 +270,7 @@ nav a {
     -ms-flex-direction: row;
     flex-direction: row;
     -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    margin-left: -1rem;  
+    flex-wrap: wrap;  
 }
 
 /* Column XS */
