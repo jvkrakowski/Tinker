@@ -16,6 +16,3 @@ Tinker is built to help you develop themes quicker. Feel free to fork it and mak
 
 Tinker utilizes Normalize by Necolas. See his github: https://github.com/necolas/normalize.css/
 
-# Tinker for Jekyll
-
-Tinker is now a Jekyll theme. Check it out here: https://github.com/jvkrakowski/tinker-for-jekyll
